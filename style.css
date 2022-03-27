@@ -1,0 +1,424 @@
+
+#e-school-img, img{
+    width: 150px;
+    height: 50px;
+    margin-left: 20px;
+    
+   }
+   .navigation{
+       margin-top: 30px;
+   }
+   .container nav{
+       background-color: #F0FFF0 !important;
+   }
+   #nav{
+       padding-right: 50px;
+   }
+   #sign-in{
+       background-color: #21B573;
+       color: white !important;
+       border-radius: 33px;
+   }
+   #nav a{
+       color: black;
+       margin-left: 20px;
+   }
+   #full{
+       background-color: #F0FFF0;
+       width: 1540px;
+       height: 576px;
+       position: absolute;
+      
+   }
+   
+   #all{
+       margin-top: 60px;
+       margin-left: 180px;
+   }
+   
+   #all .ready{
+       color:#FD511A;
+       margin-bottom: 30px;
+       
+   }
+   #all .learn{
+       font-family: 'Poppins';
+       font-size: 48px;
+       font-weight: 700;
+       line-height: 70px;
+       font-style: normal;
+   
+   }
+   #any{
+       color: #21B573;
+       font-size: 48px;
+   }
+   #paragraph1{
+       font-weight: 400;
+       position: absolute;
+       color: #6C6B6B;
+       line-height: 30px;
+   }
+   #img2{
+       height: 300px;
+       width: 400px;
+       margin-left: 90px;    
+   }
+   #btn1{
+       font-family: "Roboto";
+       margin-top: 100px;
+       padding: 12px 36px;
+       background: #21B573;
+       border-radius: 33px;
+       border: 1px  solid #21B573;
+       color: white;
+   
+   }
+   .navigation a:hover{
+       background-color:rgb(19, 171, 177) ;
+   }
+   #four-img{
+       margin-top: 700px;
+       position: absolute;
+       margin-left: 90px;
+       height: 500px;
+   }
+   #img11{
+       background-color: #F8FFFB;
+       height: 280px;
+       width: 230px;
+       padding-left: 50px;
+       padding-top: 54px;
+       margin-left: 90px;
+       border-radius: 10px;
+       margin-bottom: 50px;
+      
+      
+   }
+   #img111{
+       height: 85px;
+       width: 66px;
+       margin-left: 35px;
+       border-radius: 10px;  
+       
+   }
+   #img11 .p1{
+       width: 200px;
+       height: 36px;
+       font-size: 24px;
+       left: 201px;
+       top: 779px;
+      padding-top: 22px;
+      line-height: 36px;
+      font-family: "Poppins";
+      padding-left: 10px;
+      font-weight: 500,Medium;
+   }
+   #img11 .p2{
+       padding-left: 15px;
+       font-weight: 400, Regular;
+       padding-top: 10px;
+       
+   }
+   #img22{
+       background-color: white;
+       height: 280px;
+       width: 230px;
+       padding-left: 50px;
+       padding-top: 54px;
+      margin-left: 90px;
+      border-radius: 10px;
+      margin-bottom: 50px;
+      box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+      
+       
+   }
+   #img222{
+       height: 83px;
+       width: 80px;
+       margin-left: 35px;
+       border-radius: 10px;  
+   }
+   
+   #img22 .p1{
+       width: 179px;
+       height: 36px;
+       font-size: 24px;
+       left: 201px;
+       top: 779px;
+      padding-top: 22px;
+      line-height: 36px;
+      font-family: "Poppins";
+      padding-left: -10px;
+      font-weight: 500,Medium;
+   }
+   #img22 .p2{
+       padding-left: 15px;
+       font-weight: 400, Regular;
+       padding-top: 10px;
+       
+   }
+   
+   #img33{
+       background-color: #F8FFFB;
+       height: 280px;
+       width: 230px;
+       padding-left: 50px;
+       padding-top: 54px;
+      margin-left: 90px;
+      border-radius: 10px;
+      margin-bottom: 50px;
+   }
+   #img333{
+       height: 80px;
+       width: 75px;
+       margin-left: 35px;
+       border-radius: 10px;  
+   }
+   #img33 .p1{
+       width: 179px;
+       height: 36px;
+       font-size: 24px;
+       left: 201px;
+       top: 779px;
+      padding-top: 22px;
+      line-height: 36px;
+      font-family: "Poppins";
+      padding-left: -10px;
+      font-weight: 500,Medium;
+   }
+   #img33 .p2{
+       padding-left: 15px;
+       font-weight: 400, Regular;
+       padding-top: 10px;
+       
+   }
+   #img44{
+       background-color: #F8FFFB;
+       height: 280px;
+       width: 230px;
+       padding-left: 50px;
+       padding-top: 54px;
+      margin-left: 90px;
+      border-radius: 10px;
+      margin-bottom: 50px;
+   }
+   #img444{
+       height: 76px;
+       width: 68px;
+       margin-left: 35px;
+       border-radius: 10px; 
+   }
+   #img44 .p1{
+       width: 179px;
+       height: 36px;
+       font-size: 24px;
+       left: 201px;
+       top: 779px;
+      padding-top: 22px;
+      line-height: 36px;
+      font-family: "Poppins";
+      padding-left: -10px;
+      font-weight: 500,Medium;
+   }
+   #img44 .p2{
+       padding-left: 15px;
+       font-weight: 400, Regular;
+       padding-top: 10px;
+       
+   }
+   #courses{
+       position: absolute;
+       width: 280px;
+       height: 54px;
+       left: 651px;
+       top: 1100px;
+       font-family: 'Poppins';
+       font-style: normal;
+       font-weight: 700;
+       font-size: 36px;
+       line-height: 54px;
+       color: #413960;
+       
+   }
+   #card{
+       position: absolute;
+       top: 1250px;
+       margin-left: 200px;
+       height: 700px;
+       border: 1px solid white !important;
+   
+   }
+   #img-one{
+       height: 234px;
+       width: 331px;
+       border-radius: 11px;
+       padding-right: -2px;
+       padding-top: 27px;
+      padding-left: -10px;
+   
+   }
+   #img-two{
+       height: 234px;
+       width: 331px;
+       border-radius: 11px;
+       padding-right: -2px;
+       padding-top: 27px;
+      padding-left: -10px;
+   }
+   #img-three{
+       height: 234px;
+       width: 331px;
+       border-radius: 11px;
+       padding-right: -2px;
+       padding-top: 27px;
+      padding-left: -10px;
+   }
+   #card1{
+       width: 370px;
+       height: 460px !important;
+       box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+       border-radius: 18px;
+       border: 1px solid white;
+   
+      
+   }
+   #card2{
+       width: 370px;
+       height: 483px;
+       box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+       border-radius: 18px;
+       border: 1px solid white;
+   }
+   #card3{
+       width: 370px;
+       height: 483px;
+       box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+       border-radius: 18px;
+       border: 1px solid white;
+   }
+   #card-title{
+       width: 237px;
+       height: 36px;
+       font-weight: 500;
+       font-size: 24px;
+       line-height: 36px;
+       color: #413960;
+       padding-left: 5px;
+   }
+   #card-text{
+       font-size: 16px;
+       line-height: 24px;
+       padding-left: 5px;
+   }
+   #button{
+       width: 137px;
+       height: 35px;
+       background-color: #21B573;
+       color: white;
+       border-radius: 33px;
+       border: 1px solid #21B573;
+      
+   }
+   #card-footer{
+       background-color: white;
+       border: none;
+       padding-left: 1px;
+       border-radius: 18px;
+       padding-bottom: 15px;
+   }
+   #image1{
+       width: 23px;
+       height: 23px;
+       float: left;
+   
+   }
+    #image2{
+       width: 23px;
+       height: 23px;
+       float: left;
+       margin-right: 1px;
+       margin-left: 70px;
+   
+   } 
+   #para-all{
+       font-size: 16px;
+       float: left;
+       color: #585859;
+       margin-left: 5px;
+       font-weight: 500;
+   } 
+   #Testimonial{
+       position: absolute;
+       width: 280px;
+       height: 54px;
+       left: 651px;
+       top: 1830px;
+       font-style: normal;
+       font-weight: 700;
+       font-size: 36px;
+       line-height: 54px;
+       color: black;
+       
+   }
+   #img-and-text{
+       position: absolute;
+       top: 1950px;
+       height: 100px;
+       padding-bottom: 300px;
+   }
+   #purnima{
+       height: 140px;
+       width: 160px;
+       margin-left: 350px;
+       margin-bottom: 80px;
+   }
+   #purnima-paragraph{
+       color: #000000;
+       font-size: 16px;
+       width: 580px;
+       height: 90px;
+       margin-right: 700px;
+       margin-top: 10px;
+   }
+   #big-footer{
+       background-color: #282531;
+       position: absolute;
+       color: white;
+       width: 1540px;
+       top: 2168px;
+       height: 369px;
+   }
+   #last-para{
+       margin-top: 60px;
+   }
+   #course-list{
+       line-height: 30px;
+       margin-top: 60px;
+   }
+   #Course{
+       font-weight: 700;
+       font-size: 18px;
+   }
+   #Terms-list{
+       line-height: 30px;
+       margin-top: 60px;
+   }
+   #Terms{
+       font-weight: 700;
+       font-size: 18px;
+   }
+   #Useful-list{
+       line-height: 30px;
+       margin-top: 60px;
+   }
+   #Useful{
+       font-weight: 700;
+       font-size: 18px;
+   }
+   #footer{
+       margin-top: 70px;
+       margin-left: 500px;
+       color: #CDCDCD;
+   }
+   
